@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CW2RunningTracker</string>
+    <string name="begin_run">Begin Run</string>
+    <string name="pause_run">Pause Run</string>
+    <string name="end_run">End Run</string>
+    <string name="run_started">Run Started:</string>
+    <string name="run_ended">Run Ended:</string>
+    <string name="run_time">Run Time:</string>
+    <string name="run_average_speed">Run Average Speed:</string>
+    <string name="run_distance">Run Distance:</string>
+    <string name="add_run_annotation">Add Run Annotation:</string>
+    <string name="placeholder">placeholder</string>
+    <string name="user_statistics">User Statistics</string>
+    <string name="average_run_time">Average Run Time</string>
+</resources>
